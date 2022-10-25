@@ -9,5 +9,7 @@ public class Main {
         System.out.println(hoy.isSameDay(ayer));
         System.out.println(hoy.isSameMonth(ayer));
         System.out.println(hoy.isSameYear(ayer));
+
+        System.out.println(hoy.getMonthName());
     }
 }
